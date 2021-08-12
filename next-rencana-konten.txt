@@ -1,4 +1,6 @@
 mempelajari 
+- html
+- css
 - javascript
 - php
 - mysql
