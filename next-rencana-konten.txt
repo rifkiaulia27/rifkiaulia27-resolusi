@@ -1,0 +1,4 @@
+mempelajari 
+- javascript
+- php
+- mysql
